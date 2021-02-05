@@ -2,9 +2,9 @@
 HI, Zotak!!!!!
 
 This is the Android app that you requested from me. 
-This week has been very busy with me as 4 of the people in my family all have birthdays 
-within 4 days. Due to that I wasn't able to get to the third feature on the list. I did
-build the majority of the functionality into the existing code. 
+All of the features are there. I will keep working on it when I have time to
+make it better. I plan to fix the problem posed in the Homework itself. 
+Seperate the user and the Admin actions.
 
 I tried to stick to the MVVM Architecture as much as possible.
 
