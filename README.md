@@ -1,5 +1,5 @@
-# ZotakHomework
-HI, Zotak!!!!!
+# ZonarHomework
+HI, Zonar!!!!!
 
 This is the Android app that you requested from me. 
 All of the features are there. I will keep working on it when I have time to
